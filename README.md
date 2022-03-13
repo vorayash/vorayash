@@ -83,3 +83,8 @@
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </ul>
 
+## My Github Status 🦸
+<a target="_blank" rel="noopener noreferrer" href="#">
+   <img src="https://github-readme-stats.vercel.app/api?username=SmitVavliya&show_icons=true&theme=default">
+</a>
+<div align="center" dir="auto"><h3 dir="auto">Show some ❤️ by starring some of the repositories!</h3></div>

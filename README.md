@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />,
-, I'm Yash Vora</h1>
+ I'm Yash Vora</h1>
 <h3 align="center">A passionate Web Developer.</h3>
-<h3 align="left">Connect with me:</h3>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vorayash9028" height="30" width="40" /></a>
 <a href="https://twitter.com/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vorayash9028" height="30" width="40" /></a>

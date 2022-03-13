@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yash Vora</h1>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />,
 , I'm Yash Vora</h1>
 <h3 align="center">A passionate Web Developer.</h3>

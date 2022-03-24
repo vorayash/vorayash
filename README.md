@@ -48,13 +48,15 @@
 
 - **Backend Development**
 <ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
-</a>
-  </ul>
+  <a target="_blank" rel="noopener noreferrer" href="">
+     <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="">
+     <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
+  </a>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"     alt="php" width="40" height="40"/> 
+   </a>
+</ul>
 
 - **Database**
 <ul>

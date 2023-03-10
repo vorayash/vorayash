@@ -4,11 +4,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vorayash9028" height="30" width="40" /></a>
-<a href="https://twitter.com/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vorayash9028" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vorayash9028" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yash-vora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yash-vora" height="30" width="40" /></a>
-<a href="https://instagram.com/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vorayash9028" height="30" width="40" /></a>
+<a href="https://dev.to/vorayash9028" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="vorayash9028" height="30" width="40" /></a>
+<a href="https://twitter.com/vorayash9028" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="vorayash9028" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vorayash9028" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vorayash9028" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/yash-vora" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="yash-vora" height="30" width="40" /></a>
+<a href="https://instagram.com/vorayash9028" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="vorayash9028" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vorayash9028" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vorayash9028" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vorayash9028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vorayash9028" height="30" width="40" /></a>
 </p>
@@ -21,40 +21,40 @@
 - **Programming Languages**
 <ul>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript"/>
 </a>
 </ul>
 
 - **Frontend Development**
 <ul>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css"/>
 </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
 </ul>
 
 
 - **Backend Development**
 <ul>
   <a target="_blank" rel="noopener noreferrer" href="">
-     <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
+     <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs"/>
   </a>
   <a target="_blank" rel="noopener noreferrer" href="">
-     <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
+     <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs"/>
   </a>
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"     alt="php" width="40" height="40"/> 
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> 
    </a>
 </ul>
 
